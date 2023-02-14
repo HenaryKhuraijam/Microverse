@@ -15,7 +15,7 @@
 
 Go to the Folder where want to copy this repo and type the following cmds in you terminal:
 
-- git clone git@github.com:HenaryKhuraijam/Module1-hellomicroverse.git
+- git clone git@github.com:HenaryKhuraijam/microverse.git
 
 ## Prerequisites
 
