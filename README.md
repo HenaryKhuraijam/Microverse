@@ -48,9 +48,9 @@ Go to the Folder where want to copy this repo and type the following cmds in you
 - Twitter: [@HenaryKhuraijam](https://twitter.com/HenaryKhuraijam)
 - LinkedIn: [Henary Khuraijam](https://www.linkedin.com/in/henary-khuraijam)
 
-## Future Features
+## 🔭 Future Features <a name="future-features"></a>
 
- [To Add more styling to the page]
+ [To Add text animation]
 
 ## 🤝 Contributing
 
