@@ -7,9 +7,14 @@
 - HTML
 - CSS
 
+## Key Features
+- [Setting up of Linters]
+- [Adding a text in h1 tag]
+- [styling a text using class giving a appropriate color to it]
+
 ## Live Demo
 
-[Live Demo Link]()
+[link not available]()
 
 ## Getting started
 
